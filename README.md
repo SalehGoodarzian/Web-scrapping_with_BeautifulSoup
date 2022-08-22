@@ -5,3 +5,8 @@
     Cleaning data
     Pattern matching with regular expressions (re library)
     Working with dates (datetime library)
+
+
+### BeautifulSoup_main_project:
+
+#### Now we first find the links for all movies in the Wikipedia page for Walt Disney Pictures Films. Then, apply the above task of extracting information for their corresponding Wikiperdia page. This will be repeating the above procedure for more 400 times as there are more than 400 movies in the Walt Disney Wikipedia webpage
